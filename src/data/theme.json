@@ -1,0 +1,22 @@
+[
+  {
+    "value": "all",
+    "label": "All"
+  },
+  {
+    "value": "halloween",
+    "label": "Halloween"
+  },
+  {
+    "value": "dark",
+    "label": "Dark"
+  },
+  {
+    "value": "light",
+    "label": "Light"
+  },
+  {
+    "value": "colorful",
+    "label": "Colorful"
+  }
+]

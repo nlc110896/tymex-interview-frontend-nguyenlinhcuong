@@ -1,0 +1,46 @@
+[
+  {
+    "value": "all",
+    "label": "All"
+  },
+  {
+    "value": "Upper Body",
+    "label": "Upper Body"
+  },
+  {
+    "value": "Lower Body",
+    "label": "Lower Body"
+  },
+  {
+    "value": "Hat",
+    "label": "Hat"
+  },
+  {
+    "value": "Shoes",
+    "label": "Shoes"
+  },
+  {
+    "value": "Accessory",
+    "label": "Accessory"
+  },
+  {
+    "value": "Legendary",
+    "label": "Legendary"
+  },
+  {
+    "value": "Mythic",
+    "label": "Mythic"
+  },
+  {
+    "value": "Epic",
+    "label": "Epic"
+  },
+  {
+    "value": "Rare",
+    "label": "Rare"
+  },
+  {
+    "value": "Common",
+    "label": "Common"
+  }
+]

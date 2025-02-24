@@ -1,0 +1,35 @@
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  cursor: pointer;
+  background: linear-gradient(91.47deg, #da458f -6%, #da34dd 113.05%);
+  box-shadow: 0 0 3.125rem 0 #bb4bff52;
+  border-radius: 0.25rem;
+  padding: 0.5rem 1rem;
+  color: var(--white) !important;
+}
+
+.button:hover {
+  background: linear-gradient(91.47deg, #d85697 -6%, #d34dd6 113.05%);
+  box-shadow: 0 0 3.125rem 0 #c064f952;
+}
+
+.input {
+  height: 2.5rem;
+  color: var(--white) !important;
+  background: none !important;
+  border-radius: 0.25rem !important;
+}
+
+.input::placeholder {
+  color: var(--blur) !important;
+  font-size: 0.75rem;
+  font-weight: 500;
+}
+
+.input:focus,
+.input:hover {
+  border-color: #d85697 !important;
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "value": "all",
+    "label": "All"
+  },
+  {
+    "value": "basic",
+    "label": "Basic"
+  },
+  {
+    "value": "premium",
+    "label": "Premium"
+  },
+  {
+    "value": "deluxe",
+    "label": "Deluxe"
+  }
+]
